@@ -45,6 +45,10 @@
      
      color: cornsilk;
   }
+  .card:hover{
+    box-shadow: 5px 7px 20px rgba(124, 116, 116, 0.493); 
+  }
+
   .card-body{
      margin: 2% 5%;
   }
